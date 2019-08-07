@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+.hide {
+  position: absolute;
+  right: -9999px;
+}
+
+button {
+  margin: 16px;
+}
